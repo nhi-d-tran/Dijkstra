@@ -15,8 +15,8 @@ The first text line is the number of nodes, N, follows by a list of triplets, <n
 	5	        // there are 5 nodes in the graph
    	2         // source node ID is 2  
 	1  5 10   // an edge <1, 5, 10>
-    	2  3  5   // an edge <2, 3, 5>
-    	1  2  20  // an edge <1, 2, 20>
+    2  3  5   // an edge <2, 3, 5>
+    1  2  20  // an edge <1, 2, 20>
 	3  5  2   // an edge <3, 5, 2>
 
 
