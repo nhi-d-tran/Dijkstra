@@ -31,10 +31,12 @@ Source node  = 1
 The shortest paths  from the source node 1 are: (Note: doing back-tracing)
 
 The path from 1 to 1 :  1 to 1 : cost = 0 
+
 The path from 1 to 2 :  2 to … to 1: cost = ...
+
 The path from 1 to 3 :  3 to … to 1: cost = ...
 :
 :
-The path from 1 to 7 :  7  …  1: cost = whatever
+The path from 1 to 7 :  7 to … to 1: cost = whatever
 
 (b) OutFile2 (use argv[]): Write all debugging outputs in OutFile2. 
