@@ -27,9 +27,6 @@ II. Outputs: (There are two output files, OutFile1 and OutFile2)
 For example, if there are 7 nodes in the graph G, and source node ID is 1
 then your OutFile1 will be as follows:
 
-==============================
-There are 7 nodes in the input graph.
- ===============================
 Source node  = 1 
 The shortest paths  from the source node 1 are: (Note: doing back-tracing)
 
